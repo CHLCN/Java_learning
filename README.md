@@ -10,4 +10,5 @@
 第三周：[primitive主数据类型和引用](https://blog.csdn.net/qq_26059615/article/details/101173264)   
 第四周：[方法操作实例变量](https://blog.csdn.net/qq_26059615/article/details/102090029)  
 第五周：[简单版攻击网站游戏](https://blog.csdn.net/qq_26059615/article/details/102537697)   
-第六周：["Sink a Dot Com"游戏完整版](https://blog.csdn.net/qq_26059615/article/details/102652472)
+第六、七周：["Sink a Dot Com"游戏完整版](https://blog.csdn.net/qq_26059615/article/details/102652472)   
+第八周：[继承与多态](https://blog.csdn.net/qq_26059615/article/details/102806497)
